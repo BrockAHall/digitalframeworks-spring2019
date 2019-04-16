@@ -6,7 +6,7 @@ https://www.texastribune.org/2018/11/07/texas-election-results-turnout-county-lo
 
 ### Objective: Clarity and accuracy
 
-* The headline promised interaction and that waas delivered. However, the important information, that turnout dramatically inreased, was not in the headline. I would give it a 2 since the information was in the lead and once you read the article you understood. 
+* The headline promised interaction and that was delivered. However, the important information, that turnout dramatically inreased, was not in the headline. I would give it a 2 since the information was in the lead and once you read the article you understood. 
    * The focus was an increase in voter turnout across Texas
    * It was not in the headline. 
 * I am going to give it a 2. I completely missed the box where you could enter the your own county to see the turnout numbers the first time I read it even though I knew an interactive part was coming. 
@@ -42,7 +42,7 @@ https://www.texastribune.org/2018/11/07/texas-election-results-turnout-county-lo
 
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
    * Yes, the added detail of seraching for specific counties was unique and made you feel like your vote mattered. 
-   * 4. The idea was fresh but simple. 
+   * 4 The idea was fresh but simple. 
    
 
 https://www.nytimes.com/2019/01/22/climate/americans-global-warming-poll.html

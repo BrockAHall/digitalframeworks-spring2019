@@ -23,7 +23,7 @@ https://www.texastribune.org/2018/11/07/texas-election-results-turnout-county-lo
 * The graphics were of okay quality. The interactive feature was interesting. The article was not long enough, however. I would give it a 4. 
    * The interactive county search drew me in. More information, perhaps comparing Texas to other states would be useful. 
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
-   * The data was presented, not really compared with another state, organized in an interesting way, and was correlated. 
+   * The data was presented, not really compared with another state and organized in an interesting way. 
 
 
 ### Objective: Type and color (if piece includes graphics)
@@ -50,40 +50,37 @@ https://www.nytimes.com/2019/01/22/climate/americans-global-warming-poll.html
 
 ### Objective: Clarity and accuracy
 
-* Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 
-   * What was it?
-   * Was it in the headline?
-* Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent
-   * Was that the most efficient way to navigate? 
-   * Can you suggest ways to improve navigation?
-* Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
-   * List any areas where you question the accuracy of the data.
-   * List sources you would suggest the reporter check with. 
-   * Did they provide a source?
-   * Did they explain everything that needed explaining?
-
+* The intent and focus of the article was clear.
+   * The focus was "more Americans are concerend about climate change." 
+   * It was in the headline. 
+* The data was spread out across the article and there was only one graph. I would give it a 3. 
+   * This was the not the most efficent way to navigate. Multiple graphs about the different questions asked about climate change would have been helpful. 
+* I think the data is fairly accurate but it seems quite noisy. There really hasn't been much change since 2009. 
+   * There isn't much change in the only graph shown which kind of undermines the headline. 
+   * The reporter could also look at other polls and exit polls from recent elections. 
+   * A source was provided. 
+   * It was not really explained how the poll was conducted. 
+   
 ### Objective: Quality
 
-* Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
-   * Explain what they did well and areas where improvements could be made. 
+* I will give it a 3 for quality. The graph looks nice, but there is more inforamtion that could be in graph form and it feels like a lot of information that could back up the assertion is missing from the article. 
+   * It's a newsworthy story, but more evidence would be helpful. 
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
-   * Did this graphic accomplish all tasks?
-   * If not, which ones did it not accomplish
+   * The data was not well presented. There was comparison with past data but it did not illuminiate anything. The organization was odd, as some of the data did not show up with later in the article. There was a correlation implied by academics but no evidence for it. 
+   
 
 ### Objective: Type and color (if piece includes graphics)
 
 * Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
    * For example, did it: 
-       * Look like it all belonged together?
-       * Draw your eye first to the most important pieces of information?
-       * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
+       * The data looked like it all belonged together. 
+       * My eye was drawn to the graph. 
+       * The colors chosen were a little odd. Orange and grey does not make me think about climate change or even a basic agree/disagree idea. 
 * Type (1-5)
-   * Explain
+   * 4
 *Color (1-5)
-   * Explain
+   * 2 (The colors were an odd choice but I could tell what was going on.) 
    
 ### Objective: Creativity
-
-* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
-   * How?
-   * Rate effectiveness on scale of 1-5. 
+   * This was a missed opportunity for a more visual and in-depth piece. The graph could have utilized the color greenn, other data supporting the poll's claim could have been introduced. 
+   * Honestly, this was a fine article but the visual element was simply passable. I would give it a two. 

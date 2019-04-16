@@ -1,5 +1,11 @@
 
 
+Two Questions
+
+Though US voter turnout is low compared to other democratic countries, it does vary some from year-to-year in national elections. Voter turnout notably increased in the 2004 and 2008 presidential elections. The 2018 midterms also featured an incredible surge in turnout versus pass midterm elections. All of these elections followed historically close Presidential elections. This is some bare-bones analysis based on little data, but I do wonder if close elections inspire higher turnout in a subsequent election as people realize their vote “matters”.  I think this is worth a look, and one could either look at Presidential elections back for 100 years, or focus on statewide elections on a specific state. The big question for this topic is “Do close elections inspire higher turnout in the next election?” 
+
+Climate change will impact some communities in the US more than others. Are people in these communities more convinced of the threat of climate change? Are they more likely to support dramatic action like the Green New Deal? While it is hard to get polling information on individual communities, state-level polling on this issue can be found. One possibility is to look at how coastal states view climate change versus landlocked states. This  isn’t a perfect metric because communities can be affected by climate change in more ways than just sea-level rise but it is a start. This question could use more refining, but for now it is something along the lines of “Are states that will be impacted more by climate change more likely to support government action to combat the issue?” 
+
 
 https://www.texastribune.org/2018/11/07/texas-election-results-turnout-county-look-up/
 
